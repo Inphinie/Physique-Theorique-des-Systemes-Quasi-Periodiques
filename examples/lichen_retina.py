@@ -54,7 +54,7 @@ class LichenRetina:
 
 # --- ANIMATION ---
 sim = LichenRetina()
-fig = plt.figure(figsize=(10, 10), facecolor='black')
+fig = plt.figure(figsize=(10, 10), facecolor='gold')
 ax = fig.add_subplot(111, aspect='equal')
 ax.axis('off') # On enlève les axes moches, on veut juste la géométrie
 
